@@ -1,5 +1,3 @@
-
-
 ## install survey package (only have to do this once)
 utils:::menuInstallPkgs()
 
